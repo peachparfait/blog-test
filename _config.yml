@@ -29,11 +29,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: [madoreenu314]
 github_username:  [madoreenu]
 
-plugins:
-  - jekyll-feed # 元から入っている
-  - jekyll-remote-theme # added
-  - github-pages # added
-
+#plugins:
+  #- jekyll-feed # 元から入っている
+  #- jekyll-remote-theme # added
+  #- github-pages # added
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
