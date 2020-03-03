@@ -55,4 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 
-theme: jekyll-theme-architect
+theme: architect
