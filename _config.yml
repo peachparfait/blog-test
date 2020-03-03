@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+theme: jekyll-theme-architect
 title: [madoreenu]
 email: [madoreenu314@example.com]
 description: >- # this means to ignore newlines until "baseurl:"
@@ -54,5 +54,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-theme: jekyll-theme-architect
